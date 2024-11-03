@@ -1,0 +1,7 @@
+C:\cSharpExercises\03_Variables\bin\Debug\03_Variables.exe.config
+C:\cSharpExercises\03_Variables\bin\Debug\03_Variables.exe
+C:\cSharpExercises\03_Variables\bin\Debug\03_Variables.pdb
+C:\cSharpExercises\03_Variables\obj\Debug\03_Variables.csproj.AssemblyReference.cache
+C:\cSharpExercises\03_Variables\obj\Debug\03_Variables.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\03_Variables\obj\Debug\03_Variables.exe
+C:\cSharpExercises\03_Variables\obj\Debug\03_Variables.pdb

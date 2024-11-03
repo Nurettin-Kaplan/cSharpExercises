@@ -11,7 +11,6 @@ namespace _02_Identity_App
         static void Main(string[] args)
         {
             Console.WriteLine("***** Kimlik *****");
-
             Console.WriteLine();
             Console.WriteLine("Nurettin");
             Console.WriteLine("Kaplan");
