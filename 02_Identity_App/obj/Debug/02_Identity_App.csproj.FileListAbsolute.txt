@@ -1,0 +1,7 @@
+C:\cSharpExercises\02_Identity_App\bin\Debug\02_Identity_App.exe.config
+C:\cSharpExercises\02_Identity_App\bin\Debug\02_Identity_App.exe
+C:\cSharpExercises\02_Identity_App\bin\Debug\02_Identity_App.pdb
+C:\cSharpExercises\02_Identity_App\obj\Debug\02_Identity_App.csproj.AssemblyReference.cache
+C:\cSharpExercises\02_Identity_App\obj\Debug\02_Identity_App.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\02_Identity_App\obj\Debug\02_Identity_App.exe
+C:\cSharpExercises\02_Identity_App\obj\Debug\02_Identity_App.pdb
