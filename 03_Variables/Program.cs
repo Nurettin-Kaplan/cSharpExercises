@@ -32,6 +32,7 @@ namespace _03_Variables
             Console.Write(sum);
             */
 
+            /*
             int num1, num2, sum, mul, div, sub;
             
             Console.WriteLine("***** Arithmetic Operations *****");
@@ -49,6 +50,27 @@ namespace _03_Variables
             Console.WriteLine("Division: " + div);
             Console.WriteLine();
             Console.WriteLine("***** Arithmetic Operations *****");
+
+            */
+
+            //double number;
+            //number = 24.9;
+            //Console.WriteLine(number);
+
+            /*
+            double ex1, ex2, avg;
+            ex1 = 78;
+            ex2 = 85;
+            avg = (ex1 + ex2) / 2;
+            Console.WriteLine(avg);
+            */
+
+            string city, district;
+            Console.Write("Lütfen şehrinizi girin: ");
+            city = Console.ReadLine();
+            Console.Write("Lütfen ilçeyi girin: ");
+            district = Console.ReadLine();
+            Console.WriteLine("Girdiğiniz şehir ve ilçe: " + city + "-" + district);
 
             Console.Read();
         }
