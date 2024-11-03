@@ -1,0 +1,7 @@
+C:\cSharpExercises\01_Hello_World\bin\Debug\01_Hello_World.exe.config
+C:\cSharpExercises\01_Hello_World\bin\Debug\01_Hello_World.exe
+C:\cSharpExercises\01_Hello_World\bin\Debug\01_Hello_World.pdb
+C:\cSharpExercises\01_Hello_World\obj\Debug\01_Hello_World.csproj.AssemblyReference.cache
+C:\cSharpExercises\01_Hello_World\obj\Debug\01_Hello_World.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\01_Hello_World\obj\Debug\01_Hello_World.exe
+C:\cSharpExercises\01_Hello_World\obj\Debug\01_Hello_World.pdb
