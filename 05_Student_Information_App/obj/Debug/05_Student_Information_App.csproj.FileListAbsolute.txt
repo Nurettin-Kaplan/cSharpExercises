@@ -1,0 +1,7 @@
+C:\cSharpExercises\05_Student_Information_App\obj\Debug\05_Student_Information_App.csproj.AssemblyReference.cache
+C:\cSharpExercises\05_Student_Information_App\obj\Debug\05_Student_Information_App.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\05_Student_Information_App\bin\Debug\05_Student_Information_App.exe.config
+C:\cSharpExercises\05_Student_Information_App\bin\Debug\05_Student_Information_App.exe
+C:\cSharpExercises\05_Student_Information_App\bin\Debug\05_Student_Information_App.pdb
+C:\cSharpExercises\05_Student_Information_App\obj\Debug\05_Student_Information_App.exe
+C:\cSharpExercises\05_Student_Information_App\obj\Debug\05_Student_Information_App.pdb
