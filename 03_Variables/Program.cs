@@ -65,14 +65,44 @@ namespace _03_Variables
             Console.WriteLine(avg);
             */
 
+            /*
             string city, district;
             Console.Write("Lütfen şehrinizi girin: ");
             city = Console.ReadLine();
             Console.Write("Lütfen ilçeyi girin: ");
             district = Console.ReadLine();
             Console.WriteLine("Girdiğiniz şehir ve ilçe: " + city + "-" + district);
+            */
+
+            /*
+            int num;
+            Console.Write("Sayıyı giriniz: ");
+            num = Convert.ToInt16(Console.ReadLine());
+            Console.Write(num);
+            */
+
+            /*
+            int num1, num2, sum;
+            Console.Write("Sayı 1: ");
+            num1 = Convert.ToInt16(Console.ReadLine());
+            Console.Write("Sayı 2: ");
+            num2 = Convert.ToInt16(Console.ReadLine());
+            sum = num1 + num2;
+            Console.Write("Toplam: " + sum);
+            
+            Console.Read(); 
+            */
+
+            double num1, num2, sum;
+            Console.Write("Sayı 1 giriniz: ");
+            num1 = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Sayı 2 giriniz: ");
+            num2 = Convert.ToDouble(Console.ReadLine());
+            sum = num1 + num2;
+            Console.Write("Sonuç: " + sum);
 
             Console.Read();
+
         }
     }
 }
