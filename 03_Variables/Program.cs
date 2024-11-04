@@ -153,13 +153,24 @@ namespace _03_Variables
             Console.WriteLine(double.MinValue);
             */
 
+            /*
             short a, b, c;
             Console.Write("A: ");
-            a = Convert.ToInt16(Console.ReadLine());
+            a = short.Parse(Console.ReadLine());
             Console.Write("B: ");
-            b = Convert.ToInt16(Console.ReadLine());
+            b = Convert.ToInt16(Console.ReadLine());        // short = toInt16 *
             c = Convert.ToInt16(a + b);
             Console.Write(c);
+            */
+
+            ushort shortSide, longSide, area, perimeter;
+            Console.Write("Kısa kenarı giriniz: ");
+            shortSide = ushort.Parse(Console.ReadLine());
+            Console.Write("Uzun kenarı giriniz: ");
+            longSide = ushort.Parse(Console.ReadLine());
+            area = (ushort)(shortSide * longSide);
+            perimeter = (ushort)((shortSide + longSide) * 2);
+            Console.Write("Alan: " + area + " " + "Cevre: " + perimeter);
 
 
             Console.Read();
