@@ -128,6 +128,7 @@ namespace _03_Variables
             //num1 = 34.4f;
             //Console.Write(num1);
 
+            /*
             float num1, num2, sum;
             Console.Write("Sayi 1: ");
             num1 = float.Parse(Console.ReadLine());
@@ -135,6 +136,21 @@ namespace _03_Variables
             num2 = float.Parse(Console.ReadLine());
             sum = num1 + num2;
             Console.Write("Toplam: " + sum);
+            */
+
+            Console.WriteLine("Byte: *****");
+            Console.WriteLine(byte.MaxValue);
+            Console.WriteLine(byte.MinValue);
+            Console.WriteLine("Int: *****");
+            Console.WriteLine(int.MaxValue);
+            Console.WriteLine(int.MinValue);
+            Console.WriteLine("Float: *****");
+            Console.WriteLine(float.MaxValue);
+            Console.WriteLine(float.MinValue);
+            Console.WriteLine("Double: *****");
+            Console.WriteLine(double.MaxValue);
+            Console.WriteLine(double.MinValue);
+
 
             Console.Read();
 
