@@ -163,6 +163,7 @@ namespace _03_Variables
             Console.Write(c);
             */
 
+            /*
             ushort shortSide, longSide, area, perimeter;
             Console.Write("Kısa kenarı giriniz: ");
             shortSide = ushort.Parse(Console.ReadLine());
@@ -171,6 +172,20 @@ namespace _03_Variables
             area = (ushort)(shortSide * longSide);
             perimeter = (ushort)((shortSide + longSide) * 2);
             Console.Write("Alan: " + area + " " + "Cevre: " + perimeter);
+            */
+
+            //decimal num1, num2, sum;
+            //num1 = 14;
+            //num2 = 15;
+            //sum = num1 + num2;
+            //Console.Write(sum);
+
+            decimal side, area, perimeter;
+            Console.Write("Kenarı giriniz: ");
+            side = Convert.ToDecimal(Console.ReadLine());
+            area = side * side;
+            perimeter = side * 4;
+            Console.WriteLine("Alan: " + area + " Cevre: " + perimeter);
 
 
             Console.Read();
