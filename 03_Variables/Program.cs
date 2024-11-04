@@ -138,6 +138,7 @@ namespace _03_Variables
             Console.Write("Toplam: " + sum);
             */
 
+            /*
             Console.WriteLine("Byte: *****");
             Console.WriteLine(byte.MaxValue);
             Console.WriteLine(byte.MinValue);
@@ -150,6 +151,15 @@ namespace _03_Variables
             Console.WriteLine("Double: *****");
             Console.WriteLine(double.MaxValue);
             Console.WriteLine(double.MinValue);
+            */
+
+            short a, b, c;
+            Console.Write("A: ");
+            a = Convert.ToInt16(Console.ReadLine());
+            Console.Write("B: ");
+            b = Convert.ToInt16(Console.ReadLine());
+            c = Convert.ToInt16(a + b);
+            Console.Write(c);
 
 
             Console.Read();
