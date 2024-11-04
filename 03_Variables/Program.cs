@@ -93,6 +93,7 @@ namespace _03_Variables
             Console.Read(); 
             */
 
+            /*
             double num1, num2, sum;
             Console.Write("Sayı 1 giriniz: ");
             num1 = Convert.ToDouble(Console.ReadLine());
@@ -100,6 +101,16 @@ namespace _03_Variables
             num2 = Convert.ToDouble(Console.ReadLine());
             sum = num1 + num2;
             Console.Write("Sonuç: " + sum);
+            */
+
+            //char value;
+            //value = '+';
+            //Console.Write(value);
+
+            char choice;
+            Console.Write("Lütfen seçiminizi yapınız: ");
+            choice = Convert.ToChar(Console.ReadLine()); 
+            Console.Write("Seçiminiz: " + choice);
 
             Console.Read();
 
