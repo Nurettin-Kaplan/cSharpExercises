@@ -179,14 +179,23 @@ namespace _03_Variables
             //num2 = 15;
             //sum = num1 + num2;
             //Console.Write(sum);
-
+            /*
             decimal side, area, perimeter;
             Console.Write("Kenarı giriniz: ");
             side = Convert.ToDecimal(Console.ReadLine());
             area = side * side;
             perimeter = side * 4;
             Console.WriteLine("Alan: " + area + " Cevre: " + perimeter);
+            */
 
+            //bool state;
+            //state = true;
+            //Console.Write("Öğrenci sınavı geçti mi: " + state);
+
+            bool isLogin;
+            Console.Write("Kullanıcı giriş yaptı mı: ");
+            isLogin = Convert.ToBoolean(Console.ReadLine());
+            Console.Write("Giriş durumu: " + isLogin);
 
             Console.Read();
 
