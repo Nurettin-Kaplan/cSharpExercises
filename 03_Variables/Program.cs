@@ -107,10 +107,34 @@ namespace _03_Variables
             //value = '+';
             //Console.Write(value);
 
+            /*
             char choice;
             Console.Write("Lütfen seçiminizi yapınız: ");
             choice = Convert.ToChar(Console.ReadLine()); 
             Console.Write("Seçiminiz: " + choice);
+            */
+
+            /*
+            byte num1, num2, mul;
+            Console.Write("Sayi 1 : ");
+            num1 = Convert.ToByte(Console.ReadLine());
+            Console.Write("Sayi 2 : ");
+            num2 = Convert.ToByte(Console.ReadLine());
+            mul = Convert.ToByte(num1 * num2);
+            Console.Write("Sonu.: " + mul);
+            */
+
+            //float num1;
+            //num1 = 34.4f;
+            //Console.Write(num1);
+
+            float num1, num2, sum;
+            Console.Write("Sayi 1: ");
+            num1 = float.Parse(Console.ReadLine());
+            Console.Write("Sayı 2: ");
+            num2 = float.Parse(Console.ReadLine());
+            sum = num1 + num2;
+            Console.Write("Toplam: " + sum);
 
             Console.Read();
 
