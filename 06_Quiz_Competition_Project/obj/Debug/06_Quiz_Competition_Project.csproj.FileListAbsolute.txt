@@ -1,0 +1,7 @@
+C:\cSharpExercises\06_Quiz_Competition_Project\bin\Debug\06_Quiz_Competition_Project.exe.config
+C:\cSharpExercises\06_Quiz_Competition_Project\bin\Debug\06_Quiz_Competition_Project.exe
+C:\cSharpExercises\06_Quiz_Competition_Project\bin\Debug\06_Quiz_Competition_Project.pdb
+C:\cSharpExercises\06_Quiz_Competition_Project\obj\Debug\06_Quiz_Competition_Project.csproj.AssemblyReference.cache
+C:\cSharpExercises\06_Quiz_Competition_Project\obj\Debug\06_Quiz_Competition_Project.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\06_Quiz_Competition_Project\obj\Debug\06_Quiz_Competition_Project.exe
+C:\cSharpExercises\06_Quiz_Competition_Project\obj\Debug\06_Quiz_Competition_Project.pdb
