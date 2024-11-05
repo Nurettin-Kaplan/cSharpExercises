@@ -1,0 +1,7 @@
+C:\cSharpExercises\11_Student_Grading_System\obj\Debug\11_Student_Grading_System.csproj.AssemblyReference.cache
+C:\cSharpExercises\11_Student_Grading_System\obj\Debug\11_Student_Grading_System.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\11_Student_Grading_System\bin\Debug\11_Student_Grading_System.exe.config
+C:\cSharpExercises\11_Student_Grading_System\bin\Debug\11_Student_Grading_System.exe
+C:\cSharpExercises\11_Student_Grading_System\bin\Debug\11_Student_Grading_System.pdb
+C:\cSharpExercises\11_Student_Grading_System\obj\Debug\11_Student_Grading_System.exe
+C:\cSharpExercises\11_Student_Grading_System\obj\Debug\11_Student_Grading_System.pdb
