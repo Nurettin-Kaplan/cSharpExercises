@@ -1,0 +1,7 @@
+C:\cSharpExercises\09_Divisor_Finding_Application\bin\Debug\09_Divisor_Finding_Application.exe.config
+C:\cSharpExercises\09_Divisor_Finding_Application\bin\Debug\09_Divisor_Finding_Application.exe
+C:\cSharpExercises\09_Divisor_Finding_Application\bin\Debug\09_Divisor_Finding_Application.pdb
+C:\cSharpExercises\09_Divisor_Finding_Application\obj\Debug\09_Divisor_Finding_Application.csproj.AssemblyReference.cache
+C:\cSharpExercises\09_Divisor_Finding_Application\obj\Debug\09_Divisor_Finding_Application.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\09_Divisor_Finding_Application\obj\Debug\09_Divisor_Finding_Application.exe
+C:\cSharpExercises\09_Divisor_Finding_Application\obj\Debug\09_Divisor_Finding_Application.pdb
