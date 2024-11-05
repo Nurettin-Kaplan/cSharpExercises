@@ -1,0 +1,7 @@
+C:\cSharpExercises\07_Plate_City_Application\bin\Debug\07_Plate_City_Application.exe.config
+C:\cSharpExercises\07_Plate_City_Application\bin\Debug\07_Plate_City_Application.exe
+C:\cSharpExercises\07_Plate_City_Application\bin\Debug\07_Plate_City_Application.pdb
+C:\cSharpExercises\07_Plate_City_Application\obj\Debug\07_Plate_City_Application.csproj.AssemblyReference.cache
+C:\cSharpExercises\07_Plate_City_Application\obj\Debug\07_Plate_City_Application.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\07_Plate_City_Application\obj\Debug\07_Plate_City_Application.exe
+C:\cSharpExercises\07_Plate_City_Application\obj\Debug\07_Plate_City_Application.pdb
