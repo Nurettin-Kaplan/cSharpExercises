@@ -1,0 +1,7 @@
+C:\cSharpExercises\08_Season_Month_Application\bin\Debug\08_Season_Month_Application.exe.config
+C:\cSharpExercises\08_Season_Month_Application\bin\Debug\08_Season_Month_Application.exe
+C:\cSharpExercises\08_Season_Month_Application\bin\Debug\08_Season_Month_Application.pdb
+C:\cSharpExercises\08_Season_Month_Application\obj\Debug\08_Season_Month_Application.csproj.AssemblyReference.cache
+C:\cSharpExercises\08_Season_Month_Application\obj\Debug\08_Season_Month_Application.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\08_Season_Month_Application\obj\Debug\08_Season_Month_Application.exe
+C:\cSharpExercises\08_Season_Month_Application\obj\Debug\08_Season_Month_Application.pdb
