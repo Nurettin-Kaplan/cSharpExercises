@@ -1,0 +1,17 @@
+C:\cSharpExercises\12_Student_Grading_System_With_UI\bin\Debug\net6.0-windows\12_Student_Grading_System_With_UI.exe
+C:\cSharpExercises\12_Student_Grading_System_With_UI\bin\Debug\net6.0-windows\12_Student_Grading_System_With_UI.deps.json
+C:\cSharpExercises\12_Student_Grading_System_With_UI\bin\Debug\net6.0-windows\12_Student_Grading_System_With_UI.runtimeconfig.json
+C:\cSharpExercises\12_Student_Grading_System_With_UI\bin\Debug\net6.0-windows\12_Student_Grading_System_With_UI.dll
+C:\cSharpExercises\12_Student_Grading_System_With_UI\bin\Debug\net6.0-windows\12_Student_Grading_System_With_UI.pdb
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\_12_Student_Grading_System_With_UI.Form1.resources
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\_12_Student_Grading_System_With_UI.Properties.Resources.resources
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.csproj.GenerateResource.cache
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.AssemblyInfoInputs.cache
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.AssemblyInfo.cs
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.csproj.CoreCompileInputs.cache
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.dll
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\refint\12_Student_Grading_System_With_UI.dll
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.pdb
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\12_Student_Grading_System_With_UI.genruntimeconfig.cache
+C:\cSharpExercises\12_Student_Grading_System_With_UI\obj\Debug\net6.0-windows\ref\12_Student_Grading_System_With_UI.dll

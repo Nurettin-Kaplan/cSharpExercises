@@ -11,14 +11,14 @@ namespace _03_Variables
     {
         static void Main(string[] args)
         {
-            /*
-            string city, district;
-            city = "İstanbul";
-            district = "Üsküdar";
-            Console.Write(city + "-" + district);
 
-            Console.Read();
-            */
+            //string city, district;
+            //city = "İstanbul";
+            //district = "Üsküdar";
+            //Console.WriteLine(city + "-" + district);
+
+            //Console.Read();
+
 
             //int num;
             //num = 24;
@@ -93,15 +93,15 @@ namespace _03_Variables
             Console.Read(); 
             */
 
-            /*
-            double num1, num2, sum;
-            Console.Write("Sayı 1 giriniz: ");
-            num1 = Convert.ToDouble(Console.ReadLine());
-            Console.Write("Sayı 2 giriniz: ");
-            num2 = Convert.ToDouble(Console.ReadLine());
-            sum = num1 + num2;
-            Console.Write("Sonuç: " + sum);
-            */
+
+            //double num1, num2, sum;
+            //Console.Write("Sayı 1 giriniz: ");
+            //num1 = Convert.ToDouble(Console.ReadLine());
+            //Console.Write("Sayı 2 giriniz: ");
+            //num2 = Convert.ToDouble(Console.ReadLine());
+            //sum = num1 + num2;
+            //Console.Write("Sonuç: " + sum);
+
 
             //char value;
             //value = '+';
@@ -192,12 +192,12 @@ namespace _03_Variables
             //state = true;
             //Console.Write("Öğrenci sınavı geçti mi: " + state);
 
-            bool isLogin;
-            Console.Write("Kullanıcı giriş yaptı mı: ");
-            isLogin = Convert.ToBoolean(Console.ReadLine());
-            Console.Write("Giriş durumu: " + isLogin);
+            //bool isLogin;
+            //Console.Write("Kullanıcı giriş yaptı mı: ");
+            //isLogin = Convert.ToBoolean(Console.ReadLine());
+            //Console.Write("Giriş durumu: " + isLogin);
 
-            Console.Read();
+            //Console.Read();
 
         }
     }

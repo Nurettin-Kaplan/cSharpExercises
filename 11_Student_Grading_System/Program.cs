@@ -15,7 +15,7 @@ namespace _11_Student_Grading_System
             Console.WriteLine();
             Console.Write("Öğrenci sayısını giriniz: ");
 
-            int size1, size2 = 0;
+            int size1, k = 0, size2 = 0;
             size1 = Convert.ToInt32(Console.ReadLine());
             double sum = 0, avg = 0; 
 
@@ -24,7 +24,7 @@ namespace _11_Student_Grading_System
 
             for (int i = 0; i < size1; i++)
             {
-                Console.Write("Öğrenci ismini ve soyismini aralarına boşluk koyarak giriniz: ");
+                Console.Write((i + 1) + ". öğrencinin ismini ve soyismini aralarına boşluk koyarak giriniz: ");
                 students[i] = Console.ReadLine();
 
                 Console.Write("Öğrenci notunu giriniz: ");
@@ -44,7 +44,6 @@ namespace _11_Student_Grading_System
 
             for (int j = 0;  j < size1; j++)
             {
-                int k = 0;
                 if (notes[j] <= 49)
                 {
                     badStudents[k] = students[j];
